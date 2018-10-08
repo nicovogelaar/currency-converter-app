@@ -8,4 +8,7 @@ This is a currency converter app / demo react native app.
 
 ## Screenshots
 
-![](./Screenshot_1535877708.png =200x100)
+<img src="./Screenshot_1538339977.png" height="480">
+<img src="./Screenshot_1538339982.png" height="480">
+<img src="./Screenshot_1538339990.png" height="480">
+<img src="./Screenshot_1538339997.png" height="480">
